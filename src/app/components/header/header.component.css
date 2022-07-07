@@ -1,0 +1,7 @@
+.form-control{
+    border-radius: 5px;
+    margin-left: 25px;
+    width:600px ;
+}
+.link-login{color: #fff; text-decoration: none;}
+.searh-icon{z-index: 10; position: absolute;right: 46%; color: black; top:35%;}

@@ -1,0 +1,9 @@
+{
+ "posts": [
+ { "id": 1, "title": " ", "author": " " }
+ ],
+ "Sign-up": [
+ { "email": "rinki.sahu@gmail.com", "password": "123456"}
+ ],
+ "profile": { "name": "" }
+}
