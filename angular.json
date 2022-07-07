@@ -17,8 +17,8 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "baseHref" : "/new-ecom/",
-            "deployUrl": "/new-ecom/",
+            "baseHref" : " ",
+            "deployUrl": " ",
             "outputPath": "docs",
             "index": "src/index.html",
             "main": "src/main.ts",
